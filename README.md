@@ -1,5 +1,5 @@
-# 简易自习室座位预约系统(数据库加VX获取☟)
-> VX：13033494971
+# 简易自习室座位预约系统(文末免费领取☟)
+> 
 #### 介绍
 自习室座位预约系统（SpringBoot+Vue）
 有BUG可留言加微
@@ -40,7 +40,7 @@ Java + SpringBoot + Vue + Mybatis + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、redis、nodejs等
 
 
-## 有项目修改、安装调试需求 请联系微信
-![输入图片说明](photo/0-WeChat.png)
+## 有项目修改、安装调试需求 请联系以下
+![关注免费领](联系.png)
 
-## 其他项目定制加微☝☝☝
+## 获取资源扫☝☝☝
